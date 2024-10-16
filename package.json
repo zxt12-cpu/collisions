@@ -19,9 +19,8 @@
   },
   "homepage": "https://github.com/mmcs-gd/collision_detection_2022#readme",
   "devDependencies": {
-    "@babel/core": "^7.17.0",
-    "@babel/preset-env": "^7.16.11",
-    "jest": "^27.5.1",
-    "parcel": "^2.2.1"
+    "@babel/core": "^7.19.1",
+    "@parcel/babel-preset-env": "^2.7.0" ,
+    "parcel": "^2.7.0"
   }
 }
